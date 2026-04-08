@@ -2,7 +2,7 @@
 
 A complete restaurant website mockup built with Next.js, featuring menu with allergen filtering, events calendar, match schedule, activities, and reservations integration.
 
-## 🚀 Quick Start
+Quick Start
 
 ```bash
 # Install dependencies
@@ -17,7 +17,7 @@ npm run dev
 
 ---
 
-## 📋 Project Overview
+📋 Project Overview
 
 ### Features Implemented
 
@@ -38,7 +38,7 @@ npm run dev
 
 ---
 
-## 🏗️ Architecture
+Architecture
 
 ```mermaid
 graph TB
@@ -90,7 +90,7 @@ graph TB
 
 ---
 
-## 📁 File Structure
+File Structure
 
 ```
 restaurant/
@@ -121,7 +121,7 @@ restaurant/
 
 ---
 
-## 📝 How to Edit Content
+How to Edit Content
 
 ### 1. Restaurant Info (Name, Hours, Contact)
 
@@ -261,7 +261,7 @@ export const integrations = {
 
 ---
 
-## 🔧 Configuration
+ Configuration
 
 ### Google Maps
 
@@ -281,7 +281,7 @@ Replace the embed URL in `lib/mock-data.ts`:
 
 ---
 
-## 🌐 Migration to Real CMS
+Migration to Real CMS
 
 When ready to replace mock data with a real CMS:
 
@@ -347,7 +347,7 @@ export async function getMainMenu() {
 
 ---
 
-## 📊 Content Types
+Content Types
 
 ```mermaid
 classDiagram
@@ -406,7 +406,7 @@ classDiagram
 
 ---
 
-## 🎨 Styling
+Styling
 
 The site uses **Tailwind CSS** with a warm stone/amber color scheme:
 
@@ -477,7 +477,7 @@ flowchart LR
 
 ---
 
-## 🔍 TODO / Future Enhancements
+ TODO / Future Enhancements
 
 ### Priority 1 - Core Improvements
 - [ ] Finnish/English language toggle
@@ -499,7 +499,7 @@ flowchart LR
 
 ---
 
-## 📞 Support
+Support
 
 For questions or issues:
 1. Check this README first
